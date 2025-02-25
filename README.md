@@ -25,7 +25,8 @@
 **FirewallRYU.py**: This script implements a **software-defined network (SDN)** firewall using the **Ryu controller**. It blocks specific traffic flows between certain hosts based on predefined rules. The firewall operates on **OpenFlow 1.3**, handling switch feature configurations and dynamically adding flow rules to either block or allow traffic. The default rule permits all other communication.
 
 
-**CONCLUSION**
+**CONCLUSION:**
+
 In this work, Mininet practice was carried out together with the RYU controller to simulate a network composed of routers and an SDN firewall. The objective was to demonstrate how routing and network security can be dynamically managed in a virtualized environment. 
 
 Routing was implemented so that communication between different subnets was guaranteed using the configured routers. The firewall, on the other hand, acted as a filter, blocking unwanted packets based on defined rules, preventing specific communications between hosts.
