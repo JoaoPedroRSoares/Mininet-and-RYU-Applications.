@@ -27,7 +27,7 @@
 
 **CONCLUSION:**
 
-In this work, Mininet practice was carried out together with the RYU controller to simulate a network composed of routers and an SDN firewall. The objective was to demonstrate how routing and network security can be dynamically managed in a virtualized environment. 
+								--In this work, Mininet practice was carried out together with the RYU controller to simulate a network composed of routers and an SDN firewall. The objective was to demonstrate how routing and network security can be dynamically managed in a virtualized environment. 
 
 Routing was implemented so that communication between different subnets was guaranteed using the configured routers. The firewall, on the other hand, acted as a filter, blocking unwanted packets based on defined rules, preventing specific communications between hosts.
 
