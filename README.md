@@ -1,13 +1,13 @@
 # Mininet-and-RYU-Applications (Firewall and Routing).
 
 **Requirements**
-  **Mininet**: http://mininet.org/download/
+  **--Mininet**: http://mininet.org/download/
 
-  **RYU controller**: https://github.com/osrg/ryu.git
+  **--RYU controller**: https://github.com/osrg/ryu.git
 
-  **Python**: https://www.python.org/
+  **--Python**: https://www.python.org/
 
-  **Two RYU applications**: Firewall and Routing(Together)
+  **--Two RYU applications**: Firewall and Routing(Together)
 
 **These scripts create a simulated network environment with routers, switches, and a firewall to control traffic flows between hosts, with a RYU Controller.**
 
