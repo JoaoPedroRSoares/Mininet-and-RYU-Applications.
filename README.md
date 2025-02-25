@@ -10,6 +10,8 @@
 
   **--Two RYU applications**: Firewall and Routing(Together)
 
+**You can see Topology used in Topo.png**
+
 **These scripts create a simulated network environment with routers, switches, and a firewall to control traffic flows between hosts, with a RYU Controller.**
 
 **Topologia.py**: This script defines a network topology using Mininet, a network emulator. It creates **four Linux-based routers** (r1, r2, r3, r4), **four Open vSwitch switches** (s1, s2, s3, s4), a**nd four hosts** (h1, h2, h3, h4). The script sets up IP forwarding, configures static routing to enable communication between different subnets, and includes an iptables rule **on h4 to block traffic from h1**.
